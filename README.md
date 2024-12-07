@@ -248,3 +248,5 @@ Masukkan nama mahasiswa yang ingin diubah: Ali
 Masukkan nilai baru: 95
 Nilai Ali berhasil diubah menjadi 95.
 ```
+## flowchart
+![Flowchart](https://github.com/user-attachments/assets/9fbbf409-f130-4f1d-9aa8-4457b139a669)
